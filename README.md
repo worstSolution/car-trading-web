@@ -5,7 +5,7 @@ Then open cmd, cd to the folder that contains files downloaded from this reposit
 
 Run the command: docker-compose up
 
-Finfally, open your web brower and go to http://127.0.0.1:8000/.
+Finally, open your web brower and go to http://127.0.0.1:8000/.
 
 
 
